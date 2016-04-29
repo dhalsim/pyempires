@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Helper is modifier keys, Key strings must be in: http://www.pygame.org/docs/ref/key.html -->
+<Keyboard>
+	<Key helper="KMOD_NONE" description="Agressive Mode">K_a</Key>
+	<Key helper="KMOD_NONE" description="Deffensive Mode">K_s</Key>
+	<Key helper="KMOD_NONE" description="Stand Ground Mode">K_d</Key>
+	<Key helper="KMOD_NONE" description="No Attack Mode">K_f</Key>
+	<Key helper="KMOD_NONE" description="Exit, Turn Back">K_ESCAPE</Key>
+	<Key helper="KMOD_NONE" description="Add A Unit of Yours">K_KP_PLUS</Key>
+	<Key helper="KMOD_NONE" description="Add A Unit of Enemy 1">K_KP_MINUS</Key>
+	<Key helper="KMOD_NONE" description="Add A Unit of Enemy 2">K_KP_MULTIPLY</Key>
+	<Key helper="KMOD_NONE" description="Scroll Map Up">K_UP</Key>
+	<Key helper="KMOD_NONE" description="Scroll Map DOWN">K_DOWN</Key>
+	<Key helper="KMOD_NONE" description="Scroll Map RIGHT">K_RIGHT</Key>
+	<Key helper="KMOD_NONE" description="Scroll Map LEFT">K_LEFT</Key>
+	<Key helper="KMOD_NONE" description="Select only one in a group">K_SPACE</Key>
+</Keyboard>	
